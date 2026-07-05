@@ -1,3 +1,6 @@
+![GNU Octave](https://shields.io/badge/GNU_Octave-e37114?logo=octave)
+
+
 # LorenzAtractor
 
 This is a representation of Lorenz Atractor in octave, an "animation" where you can see
@@ -5,8 +8,7 @@ the trajectorie of the sistem with two values of rho and two initial conditions 
 
 ## Use of code
 To run the animation you need [GNU Octave](https://octave.org/download) choose a version for 
-your os, if you are user of linux use (this is for fedora but you can cahnge `dnf` according 
-your distribution):
+your os, if you are user of linux use (this is for fedora but you can change it according to your distribution)
 ```bash
 sudo dnf install octave -y
 ```
