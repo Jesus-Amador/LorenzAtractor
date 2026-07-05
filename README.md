@@ -17,4 +17,4 @@ rho1, rho2 and initial conditions.
 When you run the code rho1 and rho2 must be real values, and the inital condition must be a vector like `[1, 0.5, 0]`
 
 # Visualization
-![Valores rho1 = 25 y rho2 = 35](GIFs/lorez_atractor2.gif)
+![Valores rho1 = 25 y rho2 = 35](Gifs/lorez_atractor2.gif)
