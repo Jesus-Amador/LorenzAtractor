@@ -18,7 +18,7 @@ When you run the code rho1 and rho2 must be real values, and the inital conditio
 
 # Visualization
 <div id="Ejemplo">
-  <img src="Gifs/lorenz_atractor2.gif">
+  <img src="Gifs/lorenz_atractor4.gif">
 </div>
 
 As you can see this is an example of what you will watch in your screen, you can modify the speed od the animation, color and the text and you will see something similar.
